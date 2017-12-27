@@ -63,7 +63,7 @@ namespace dev275x.studentlist
 
         static void ShowUsage()
         {
-            Console.WriteLine($"Usage: dotnet dev275x.rollcall.dll (-a | -r | -c | +WORD | ?WORD)");
+            Console.WriteLine($"Usage: dotnet dev275x.rollcall.dll (-a | -r | -count | +WORD | ?WORD)");
         }
     }
 }
